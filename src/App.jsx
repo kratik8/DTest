@@ -14,6 +14,7 @@ function App() {
   return (
     <div className="container">
       <h1>🚀 DevOps Deployment Test</h1>
+      <i>Crated by GPT</i>
 
       <div className="card">
         <p><strong>Version:</strong> {version}</p>
